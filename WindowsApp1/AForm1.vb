@@ -1,0 +1,76 @@
+﻿Public Class AForm1
+
+    'this is a button. i use it to test function's. who they react and what info they feedback :) i am proud on myself. thank to the world of eletronics.
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        'Me.Text = DayNaMe("1800-01-01")
+        'Me.Text = Age("2020-10-20")
+        'Me.Text = PathNaMe("C:\like\you\file.exe")
+        'Me.Text = DirName("C:\like\you")
+        'Me.Text = FileExtension("c:\when\bravo.exe")
+        'Me.Text = FileNaMe("c:\bravo.exe")
+        'Me.Text = Path("c:\folder\other")
+        'Me.Text = ReverseString("HALLO")
+        'Me.Text = Score2Space("file_naMe_like_this.exe")
+        'Me.Text = Space2Score("ha_ha ha")
+        'Me.Text = TiMeCheck("12:45")
+        'Me.Text = TiMeHour2Minutes("01:01")
+        'Me.Text = TiMeMinutes2Hour("128")
+        'Me.Text = TiMeNaMe24clock(12)
+        'i am tired but can not stop. shit
+        'i did stop. a new day is better
+        'Me.Text = WeekNumber("2020-10-21")
+        'Me.Text = Xorr(0)
+        'Me.Text = URLDecode("hallo%20ben%20een bestand.jpg")
+        'Me.Text = URLEncode("bestand klaar maken voor browser.jpg")
+        'Me.Text = TextRemoveDouble("hallo  ---  ____ cool _yeah_.txt")
+        'Me.Text = TextUppercases("hallo hoe gaat het erMee?")
+        'Me.Text = TextReplace("Hallo, hoe gaat dat er Mee?", "dat", "het")
+        'Me.Text = BlockEndRemove("soMe sort ¿of text")
+        'Me.Text = AndDouble("you && Me")
+        Button1.Text = AndSingel("&&Click")
+        'Me.Text = Boolean2Value(True)
+        'Me.Text = ByteAlways(-1)
+        'Me.Text = CCBool("a")
+        'wauw i am getting good at it
+        'Me.Text = CountReturns(0, "hello" & vbCrLf & " cool" & vbCrLf & ".")
+        'Me.Text = DateSort("10-20-2020", True)
+        'Me.Text = DateSort("20-10-2020")
+        ''''Me.Text = VKToDIK(27)
+        ''''Me.Text = VKToDIKPress(160)
+        'Me.Text = CharCodeB64("+")
+        ''''Me.Text = Bytes2Len("12")
+        'Me.Text = NumberOnly("-9")
+        'Me.Text = CurDecimal("sdafds")
+        'Me.Text = PositiveAlways(-15)
+        'Me.Text = PhoneNumber(48, 1, "2")
+        'Me.Text = PostalCode(65, 3, "123")
+        'Me.Text = Deleted("deletedHello")
+        ''''Me.Text = DateCalc("Daily", "2004-09-16")
+        ''''Me.Text = DateCalc("DONT KNOW WHAT IT IS FOR", "SHIT")
+        'Me.Text = DirMake("c:\cool")
+        'Me.Text = DirReal("c:\cool1")
+        'Me.Text = KeyAsciiToDX(s13)
+        'Me.Text = KeyAsciiF(188, 1)
+        'Me.Text = TimeMinutes2HourFix(-3600)
+        'Me.Text = TimeMin("11:16", "12:24")
+        'Me.Text = TimePlus("12:00", "11:00")
+        'Me.Text = SunSign(522)
+        ''''Me.Text = RecvSequence(128)
+        ''''Me.Text = SendSequence(128)
+        ''''Me.Text = TextOnly("abc123ABC")
+        'Me.Text = TextWidth("hello")
+        'Me.Text = TextHeight("hello" & vbCrLf & "what" & vbCrLf & "oke", 10)
+        ''''Me.Text = TimeCompile("12:15")
+        'Me.Text = TextVerdelen("hello " & vbCrLf & " this greetings start wars " & vbCrLf & "have peace please", 60, True)
+        'Me.Text = EmoticonsText("(brb)")
+        'Me.Text = EmoticonsText("brb")
+        'Me.Text = EmoticonsSize(":)")
+        'Me.Text = EmoticonsImage("brb")
+        'Me.Text = GetTextColour(0, 0)
+
+    End Sub
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
+End Class
