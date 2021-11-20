@@ -15,3 +15,6 @@ so on that way i could change the album what i wanted to play.
 
 all settings and databases the applications used could be seen by opening 1 program.
 it was fun doing it and i have learnd a lot of it.
+
+
+most of the things i had deleted in the past. so there are no applications anymore. and this is just the simple user interface.
