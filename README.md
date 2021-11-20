@@ -1,7 +1,6 @@
 # Old-Project-11-years-of-work.
 
+this project is made in vb6 and directx7. they are both not any longer supported.
+but maby there is some code in this project were you can learn about.
 
-it is that directx 7 version and vb6 are deprecated.
-and have to start all over. but that is just to much for me so i wont.
-
-but maby you can find some usefull code you can use for yourself.
+you can not compile this code in the ways i know.
