@@ -1,6 +1,7 @@
 # Old-Project-11-years-of-work.
 
 
-you can not compile this project. but you can maybe find some usefull code.
-the code from orgin is vb6. that is deprecated.
-i used direct X 7. and that is also deprecated.
+it is that directx 7 version and vb6 are deprecated.
+and have to start all over. but that is just to much for me so i wont.
+
+but maby you can find some usefull code you can use for yourself.
